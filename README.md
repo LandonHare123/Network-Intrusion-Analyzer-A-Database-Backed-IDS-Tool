@@ -1,4 +1,4 @@
-incident_report.py ip_report.py and generate_alert.py are all AI generate scripts used to quickly validate AlertViewer.py and main.py write behavior on the database tables prior to adding read functions
+incident_report.py ip_report.py and generate_alert.py are all AI generated scripts used to quickly validate AlertViewer.py and main.py write behavior on the database prior to adding read functions
 
 included is a sample json file eve.json to test the program use main.py with the readfile function on it to populate the first table
 
